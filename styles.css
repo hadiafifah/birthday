@@ -1,0 +1,14 @@
+html{
+    text-align: center;
+    background-color: rgb(205, 227, 238);
+    color:rgb(55, 55, 127);
+    font-family: 'Itim';
+}
+
+.help{
+    font-family: 'Itim', 'Tahoma';
+}
+
+#faisal{
+    height: 500px
+}
